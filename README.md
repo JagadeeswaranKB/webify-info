@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 ## Contributors
 
-- J<a href="https://jagadeeswarankb.github.io">Jagadeeswaran K B</a> - Project Lead
+- <a href="https://jagadeeswarankb.github.io">Jagadeeswaran K B</a> - Project Lead
 
 ## License
 
